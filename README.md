@@ -15,10 +15,10 @@
 ## Database Schema
 ![Database Schema](<Cafe Near U (After).png>)
 
-## System Design
+## System Flow Chart
 ![System Flowchart](<截圖 2023-08-24 下午1.53.24.png>)
 
-## Run in Docker:
+## Run the Program
 Step1: Pull the repo and Switch to branch backend_dev
 ```bash
 git clone https://github.com/cafenearu/groupI-CafeNearU.git
